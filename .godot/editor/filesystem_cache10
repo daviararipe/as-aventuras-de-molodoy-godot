@@ -1,0 +1,112 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1769921447
+export_presets.cfg::TextFile::-1::1764296283::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D::1049437457218468139::1763749694::1763749694::1::::<><><>0<>0<>8a0a7a25b6de37348e524b5e9a060241<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+objetivos.gd::GDScript::2303363224551370255::1763749694::0::1::::<>CanvasLayer<><>0<>0<><>::
+objetivos.tscn::PackedScene::5043216347193671749::1763749694::0::1::::<><><>0<>0<><>::uid://ryou86x666ll::::res://assets/brackeys_platformer_assetsnw/fonts/PixelOperator8.ttf<>res://objetivos.gd
+::res://assets/::1763749700
+1762342324345-convertido-de-jpg.png::CompressedTexture2D::4790477697903662984::1763749699::1763749699::1::::<><><>0<>0<>d7493c905b060847a75cdee5647e3950<>res://.godot/imported/1762342324345-convertido-de-jpg.png-c60709a603eb4386ef522e42602f99b1.ctex::
+1762342324345.jpg::::-1::1763749699::1763749699::0::::<><><>0<>0<>173ab4e3b3320becbebe22bc61fd1829<>::
+ChatGPT Image 5 de nov. de 2025, 08_36_21.png::CompressedTexture2D::7710054581018191756::1763749699::1763749699::1::::<><><>0<>0<>7dd850706c8321029ba014a5d75a3d83<>res://.godot/imported/ChatGPT Image 5 de nov. de 2025, 08_36_21.png-9b3edeb5c549b75c18d742af512aaaa1.ctex::
+d27c19a3-0dad-468b-8151-479aa13ef15c.jpg::CompressedTexture2D::4566935213782441264::1763749699::1763749699::1::::<><><>0<>0<>26bdd4f8ff03e0cb2a8337623382591f<>res://.godot/imported/d27c19a3-0dad-468b-8151-479aa13ef15c.jpg-beb5b6495c40006a9b4a9eaa42c0bef9.ctex::
+efeito-sonoro-de-game-over-cover.mp3::AudioStreamMP3::1298091765938362088::1763749699::1763749699::1::::<><><>0<>0<>5b51507296f8a39a1a2b225fe316bcc1<>res://.godot/imported/efeito-sonoro-de-game-over-cover.mp3-abaffeaead083872d485fe8542a62329.mp3str::
+efeito-sonoro-de-game-over-cover.wav::AudioStreamWAV::3262056774663585718::1763749699::1763749699::1::::<><><>0<>0<>58b6eb21fb0998029f584c8582a93eec<>res://.godot/imported/efeito-sonoro-de-game-over-cover.wav-3f0a9ea239163149fb6fcf2291f54656.sample::
+kids-game-gaming-background-music-295075.mp3::AudioStreamMP3::1885677841008683929::1763749699::1763749699::1::::<><><>0<>0<>dd1f4dd3c463b1d364009716c7f804b6<>res://.godot/imported/kids-game-gaming-background-music-295075.mp3-f752b648279e2219ba820c1a93b6bfca.mp3str::
+kidsgame.wav::AudioStreamWAV::1016493838087282913::1763749699::1763749699::1::::<><><>0<>0<>1d64f94a4299cdb1f972c2300e3c1959<>res://.godot/imported/kidsgame.wav-5294ca958649dd0bd74e86e603195d50.sample::
+nuvem.png::CompressedTexture2D::1574128237712893864::1763749699::1763749699::1::::<><><>0<>0<>90c0500475f33ebc78c4872a5a79c2d9<>res://.godot/imported/nuvem.png-17e83ee752ae07ded9836826f5786395.ctex::
+RELEASED - Shiba Inu Shepherd Mix Husky Pet Mod _ Chucklefish Forums.png::CompressedTexture2D::4814495708162300038::1763749699::1763749699::1::::<><><>0<>0<>0fb845689682b19372aa40468329dbaa<>res://.godot/imported/RELEASED - Shiba Inu Shepherd Mix Husky Pet Mod _ Chucklefish Forums.png-b292036f0e7385d545de2ac50511a37d.ctex::
+RELEASED - Shiba Inu Shepherd Mix Husky Pet Mod _ Chucklefish ForumsSEMOSFUNDO.png::CompressedTexture2D::8301489053194356587::1763749699::1763749699::1::::<><><>0<>0<>cca56fcea6a0e34ea457f9ffe110ca7e<>res://.godot/imported/RELEASED - Shiba Inu Shepherd Mix Husky Pet Mod _ Chucklefish ForumsSEMOSFUNDO.png-a0bf3b638de62c3803fa8d51bf1a8e42.ctex::
+spike-animation.png::CompressedTexture2D::5535733191791648684::1763749699::1763749699::1::::<><><>0<>0<>eef4baaab72c1ac05cd84f744eed17e3<>res://.godot/imported/spike-animation.png-ba4d17e92901ce4ed960043436fe5ba0.ctex::
+::res://assets/brackeys_platformer_assetsnw/::1763749699
+LICENSE & CREDITS.txt::TextFile::-1::1763749699::0::1::::<><><>0<>0<><>::
+::res://assets/brackeys_platformer_assetsnw/fonts/::1763749699
+PixelOperator8-Bold.ttf::FontFile::7480682846014154099::1763749699::1763749699::1::::<><><>0<>0<>85aa54029c659f95cde2a5fdfef66211<>res://.godot/imported/PixelOperator8-Bold.ttf-8a779c9190327a9b8e204a9ff3a5c940.fontdata::
+PixelOperator8.ttf::FontFile::1243642943968001029::1763749699::1763749699::1::::<><><>0<>0<>6d951180c658c2c2a9be6adceecfc9af<>res://.godot/imported/PixelOperator8.ttf-2b2ac81999b06178c52ec888769f6a46.fontdata::
+::res://assets/brackeys_platformer_assetsnw/music/::1763749699
+time_for_adventure.mp3::AudioStreamMP3::521778580810028147::1763749699::1763749699::1::::<><><>0<>0<>3ef6adde48fb7c810eb70302eb4a6453<>res://.godot/imported/time_for_adventure.mp3-0fa5e30e03e3b390f6ac2f871b7a409c.mp3str::
+::res://assets/brackeys_platformer_assetsnw/sounds/::1763749699
+coin.wav::AudioStreamWAV::6950598325074582366::1763749699::1763749699::1::::<><><>0<>0<>387cfba4ea7c3c64f16c75360f471716<>res://.godot/imported/coin.wav-efbf3d4845edfbe231b6a9fac9d6df67.sample::
+explosion.wav::AudioStreamWAV::4221276537553146649::1763749699::1763749699::1::::<><><>0<>0<>3159192dfa86a4139d927cfc008e1b73<>res://.godot/imported/explosion.wav-4d029a985968329d87d32e96fb4575e2.sample::
+hurt.wav::AudioStreamWAV::7219279176199521615::1763749699::1763749699::1::::<><><>0<>0<>f13bb413ecd2e6f9a857ea8c941fcc1c<>res://.godot/imported/hurt.wav-1eb5343d3880ea1774a5a1c12df69a29.sample::
+jump.wav::AudioStreamWAV::3927691413527159443::1763749699::1763749699::1::::<><><>0<>0<>3548943a047e85aa6a92c96b5c3d689d<>res://.godot/imported/jump.wav-0a1e44abf878eb53ce6e8e3215f61b06.sample::
+power_up.wav::AudioStreamWAV::7128526293074019093::1763749699::1763749699::1::::<><><>0<>0<>fa1a1858870df18fcd4d7759fa16f59a<>res://.godot/imported/power_up.wav-9be8aa1b25a911b1c8447426c9f322c8.sample::
+tap.wav::AudioStreamWAV::1668628728253337079::1763749699::1763749699::1::::<><><>0<>0<>a7af3c23d1f9960d23cda8ea3bbb50d2<>res://.godot/imported/tap.wav-18035d59d8a5ba94009bc6f7eda6f24e.sample::
+::res://assets/brackeys_platformer_assetsnw/sprites/::1763749808
+coin.png::CompressedTexture2D::2501980877428428755::1763749699::1763749699::1::::<><><>0<>0<>fb5e1348922ecc9a55ee9412e3440f48<>res://.godot/imported/coin.png-de6489b9e5f4b2e6cd09a1a85f9bd40e.ctex::
+e5fdc870-0452-42a6-9f6a-d0c44a419ff1.png::CompressedTexture2D::4248436273715116511::1763749699::1763749808::1::::<><><>0<>0<>731f9878c899b3ab3a83c8e2a8cc662d<>res://.godot/imported/e5fdc870-0452-42a6-9f6a-d0c44a419ff1.png-29cb861bb065f39b714fae6221c46d70.ctex::
+fruit.png::CompressedTexture2D::5181834662601106001::1763749699::1763749699::1::::<><><>0<>0<>f61c36914ebe216f393821b106118581<>res://.godot/imported/fruit.png-0358f5b55bddd7950cdcebd12a4d08c7.ctex::
+knight.png::CompressedTexture2D::91079055010527440::1763749699::1763749699::1::::<><><>0<>0<>b30051bb411da712083380011d184306<>res://.godot/imported/knight.png-7c80139902a683874826d369be0f0f41.ctex::
+osso.png::CompressedTexture2D::2433688901169547927::1763749699::1763749808::1::::<><><>0<>0<>db27872d156a055be8bf25abf1b5c5b7<>res://.godot/imported/osso.png-3064c974fa6ea4972f625e9340337996.ctex::
+platforms.png::CompressedTexture2D::6609946855057886897::1763749699::1763749699::1::::<><><>0<>0<>a239f911ec14d7c794aa67219f672a8b<>res://.godot/imported/platforms.png-5f2f2b6baef88874e6867ef82fdb6f2a.ctex::
+slime_green.png::CompressedTexture2D::8929152458418360265::1763749699::1763749699::1::::<><><>0<>0<>5d313e578f9e760b78be210250b55a52<>res://.godot/imported/slime_green.png-8c8c8620038e6d384485aa24084fd722.ctex::
+slime_purple.png::CompressedTexture2D::5493236488023971245::1763749699::1763749699::1::::<><><>0<>0<>0e5d8307f9a7917163aa25199aea0474<>res://.godot/imported/slime_purple.png-0e5fb9a11368b30c29255a9d4c3aa9d4.ctex::
+trofeu.png::CompressedTexture2D::8722802735722425562::1763749699::1763749808::1::::<><><>0<>0<>15363f7410f84b8ba6012bf8fa78a196<>res://.godot/imported/trofeu.png-b264c9f010cc724952c397859cb33965.ctex::
+world_tileset.png::CompressedTexture2D::6371821998827433146::1763749699::1763749699::1::::<><><>0<>0<>9d477b68858e5509545d27c72ca9b95e<>res://.godot/imported/world_tileset.png-e53b5ac380adb2292449c7340a7a6bb0.ctex::
+::res://assets/floor_spikes_oga/::1763749700
+floor spikes.svg::CompressedTexture2D::7083201179166541193::1763749699::1763749700::1::::<><><>0<>0<>2bd1c3fad8888f7f34b160e01fd3b927<>res://.godot/imported/floor spikes.svg-3423f34b2461494f270fc4a0aca3832f.ctex::
+READ_ME.txt::TextFile::-1::1763749700::0::1::::<><><>0<>0<><>::
+::res://assets/floor_spikes_oga/keyframes/::1763749700
+long_metal_spike.png::CompressedTexture2D::6830794823417241463::1763749700::1763749700::1::::<><><>0<>0<>a8a1e8a9f8cdb712ed18a1e09ebbd4b5<>res://.godot/imported/long_metal_spike.png-6aad36b7e859a06069b65a3b2fcee794.ctex::
+long_wood_spike.png::CompressedTexture2D::823120658756712193::1763749700::1763749700::1::::<><><>0<>0<>e1161c3f20d4d15109518690b4676689<>res://.godot/imported/long_wood_spike.png-5bcd65435e6d30d04d911bea7c59c732.ctex::
+small_metal_spike.png::CompressedTexture2D::2861605980767089239::1763749700::1763749700::1::::<><><>0<>0<>092b09bce2e1236443bbcf1eab0cf0c7<>res://.godot/imported/small_metal_spike.png-fbcbea2b5cbf146e5ce7d634202beb11.ctex::
+small_wood_spike.png::CompressedTexture2D::6249406774363005129::1763749700::1763749700::1::::<><><>0<>0<>a002a5d1d2ca3eea3563901588467852<>res://.godot/imported/small_wood_spike.png-c74a0cccadc3fd5dba1355d6d577784f.ctex::
+::res://assets/floor_spikes_oga/keyframes/long_metal/::1763749700
+long_metal_spike_01.png::CompressedTexture2D::8995772248989426020::1763749700::1763749700::1::::<><><>0<>0<>17efab3a0d82a01f5ea1da8639b50fec<>res://.godot/imported/long_metal_spike_01.png-76dcffbb977b49c8cfa4b9c3cc1e03cc.ctex::
+long_metal_spike_02.png::CompressedTexture2D::12150228741544093::1763749700::1763749700::1::::<><><>0<>0<>d2a2e2b1fe44efe7ab7c9659e03b6279<>res://.godot/imported/long_metal_spike_02.png-0aa7eb22c0353eb0c81ed293af010018.ctex::
+long_metal_spike_03.png::CompressedTexture2D::4845410776071686492::1763749700::1763749700::1::::<><><>0<>0<>621730e66b32f5d610c9702d013e1927<>res://.godot/imported/long_metal_spike_03.png-48b2ae819a3de5280de06e833da9803f.ctex::
+long_metal_spike_04.png::CompressedTexture2D::9054262090386742650::1763749700::1763749700::1::::<><><>0<>0<>489ae710ab415891f55db5e839141710<>res://.godot/imported/long_metal_spike_04.png-773138eaadb035519d259ebc3f27bc7b.ctex::
+::res://assets/floor_spikes_oga/keyframes/long_wood/::1763749700
+long_wood_spike_01.png::CompressedTexture2D::3486730479370533305::1763749700::1763749700::1::::<><><>0<>0<>111f35f639a4b36220aa2404898e390d<>res://.godot/imported/long_wood_spike_01.png-75b61f2c44957e782c70e2973412b448.ctex::
+long_wood_spike_02.png::CompressedTexture2D::4359590744397810799::1763749700::1763749700::1::::<><><>0<>0<>58619c7e6a881057bb7a3d9c208684a2<>res://.godot/imported/long_wood_spike_02.png-48b6be3e7f7bed113281a286a7635033.ctex::
+long_wood_spike_03.png::CompressedTexture2D::2195140184028061034::1763749700::1763749700::1::::<><><>0<>0<>b56fb2fdde233087ebe0e2c7cae1dfa4<>res://.godot/imported/long_wood_spike_03.png-aa3da45b2b20310d9aea029e8ffc1b8a.ctex::
+long_wood_spike_04.png::CompressedTexture2D::175413042782227612::1763749700::1763749700::1::::<><><>0<>0<>700de1815f553cf97ed80cde9bfa55f5<>res://.godot/imported/long_wood_spike_04.png-a705a97b534a51f6cad0b44d556f655f.ctex::
+long_wood_spike_05.png::CompressedTexture2D::2966752580689311752::1763749700::1763749700::1::::<><><>0<>0<>20504b01656769eaa8981538af9ba9fa<>res://.godot/imported/long_wood_spike_05.png-a5839f3523ba9de99677ad529b7bbd57.ctex::
+::res://assets/floor_spikes_oga/keyframes/small_metal/::1763749700
+small_metal_spike_01.png::CompressedTexture2D::5617991139482304347::1763749700::1763749700::1::::<><><>0<>0<>79ec6bcf3400c4e9eccc43c75b25a6d3<>res://.godot/imported/small_metal_spike_01.png-c9f5029d8b7e9a644ec1ee32a983e8b6.ctex::
+small_metal_spike_02.png::CompressedTexture2D::666093719069279947::1763749700::1763749700::1::::<><><>0<>0<>5c6bd940461214feb82ddb886391a40d<>res://.godot/imported/small_metal_spike_02.png-ae282b1d3ad8fa7b4bdcbab20a684c9d.ctex::
+small_metal_spike_03.png::CompressedTexture2D::245177777993379726::1763749700::1763749700::1::::<><><>0<>0<>70af506eb57b44919077d255783be034<>res://.godot/imported/small_metal_spike_03.png-8d024f53ca66d28c3d57dd3ea15ddf91.ctex::
+::res://assets/floor_spikes_oga/keyframes/small_wood/::1763749700
+small_wood_spike_01.png::CompressedTexture2D::2695782097207635218::1763749700::1763749700::1::::<><><>0<>0<>1b282cc8e71c55d88f3f3ad2a0a4da91<>res://.godot/imported/small_wood_spike_01.png-7bd4737c405f2151e44644cd9585d576.ctex::
+small_wood_spike_02.png::CompressedTexture2D::7738380043110796418::1763749700::1763749700::1::::<><><>0<>0<>b432bfcc236e36836316feac64d28d32<>res://.godot/imported/small_wood_spike_02.png-9954a04419cd1585acd7726535de2dde.ctex::
+small_wood_spike_03.png::CompressedTexture2D::2849056179143145030::1763749700::1763749700::1::::<><><>0<>0<>79f1848518d4ab1c22020f56364b9e20<>res://.godot/imported/small_wood_spike_03.png-41cba609e40a667c6e2a64e1b27e669c.ctex::
+small_wood_spike_04.png::CompressedTexture2D::6060214764128536244::1763749700::1763749700::1::::<><><>0<>0<>ebd513ca43b1a33d98272ffadf47e130<>res://.godot/imported/small_wood_spike_04.png-1c23de4d0821cea28c611a2b2e6ad054.ctex::
+::res://assets/fonts/::1763749700
+::res://assets/fonts/Stardev Full - 14 Fonts/::1763749700
+characters.png::CompressedTexture2D::2062674634740021272::1763749700::1763749700::1::::<><><>0<>0<>a1c27ac63fab800a552aa97d176b3ca7<>res://.godot/imported/characters.png-dc1ddb1e7c4b2e5b5354c0e636205e99.ctex::
+characters.txt::TextFile::-1::1763749700::0::1::::<><><>0<>0<><>::
+fonts.png::CompressedTexture2D::1482150343560452272::1763749700::1763749700::1::::<><><>0<>0<>abe20e76d783da4c17bcbd373f75983e<>res://.godot/imported/fonts.png-00ca5c4ac17574856c48d0ba0bf6602c.ctex::
+Stardev_Narrow_AA_strip82.png::CompressedTexture2D::2663186613631309975::1763749700::1763749700::1::::<><><>0<>0<>b152fe90afacea591e2018ee7743afac<>res://.godot/imported/Stardev_Narrow_AA_strip82.png-91692030f374872bfab06a1780ca364b.ctex::
+Stardev_Narrow_Outline_strip82.png::CompressedTexture2D::7905063371378426745::1763749700::1763749700::1::::<><><>0<>0<>b7da3bcc56cd5a5470522c94e9e0f381<>res://.godot/imported/Stardev_Narrow_Outline_strip82.png-f3947193c9b0ae5eeb9d0a8613427fc2.ctex::
+Stardev_Narrow_strip82.png::CompressedTexture2D::5437356197616423063::1763749700::1763749700::1::::<><><>0<>0<>59a9c42dda3181b668d72d356679006f<>res://.godot/imported/Stardev_Narrow_strip82.png-d256876104763dd233870125608eae4f.ctex::
+Stardev_Normal_AA_strip82.png::CompressedTexture2D::3920928972001261607::1763749700::1763749700::1::::<><><>0<>0<>b08a529f127148842bdee3318a4c16a7<>res://.godot/imported/Stardev_Normal_AA_strip82.png-d0ee6d1d7e976c4a98b71e0740bed8b5.ctex::
+Stardev_Normal_Gold_strip82.png::CompressedTexture2D::1865112556879035902::1763749700::1763749700::1::::<><><>0<>0<>13757f634082d7dba84e24475433717f<>res://.godot/imported/Stardev_Normal_Gold_strip82.png-f568b320026dcc216f9c798dddd2577a.ctex::
+Stardev_Normal_Outline_strip82.png::CompressedTexture2D::4483701236741997103::1763749700::1763749700::1::::<><><>0<>0<>3d5fd438a35a9bfb3e54f87210bb7796<>res://.godot/imported/Stardev_Normal_Outline_strip82.png-89d09cb4e6091a556f1f6b4ca3c179f6.ctex::
+Stardev_Normal_Silver_strip82.png::CompressedTexture2D::347129505634444893::1763749700::1763749700::1::::<><><>0<>0<>28731490d53feffaf77d2d417e7bc4e5<>res://.godot/imported/Stardev_Normal_Silver_strip82.png-8ec19f77821fb54b91f7bf001cf09b3e.ctex::
+Stardev_Normal_strip82.png::CompressedTexture2D::7308910690251949828::1763749700::1763749700::1::::<><><>0<>0<>910463ae948f94ed02e4328f8b326a73<>res://.godot/imported/Stardev_Normal_strip82.png-4e80655e419aeab6559ac4a92f338db9.ctex::
+Stardev_Superbold_AA_strip82.png::CompressedTexture2D::2811361634929688318::1763749700::1763749700::1::::<><><>0<>0<>e7d65d2bf7b70a04f1c3cfc274e230a5<>res://.godot/imported/Stardev_Superbold_AA_strip82.png-52320a59aa2aa76789f06d1a72aff2ba.ctex::
+Stardev_Superbold_Outline_strip82.png::CompressedTexture2D::1383053275687985341::1763749700::1763749700::1::::<><><>0<>0<>40f0e77d97a4b881ab24963016733567<>res://.godot/imported/Stardev_Superbold_Outline_strip82.png-ef970e1dcb2be47c965af68c875aff14.ctex::
+Stardev_Superbold_strip82.png::CompressedTexture2D::2406106602952120879::1763749700::1763749700::1::::<><><>0<>0<>b06a382aedb83b0815acea2a1475591b<>res://.godot/imported/Stardev_Superbold_strip82.png-ea741c681f0d049d60d10b53d97c3a37.ctex::
+Stardev_Wide_AA_strip82.png::CompressedTexture2D::1051499370662473476::1763749700::1763749700::1::::<><><>0<>0<>c93ad36b4d7aadc127f45fce5fd621d1<>res://.godot/imported/Stardev_Wide_AA_strip82.png-81b144b3cedaadca944f20612dc4baab.ctex::
+Stardev_Wide_Outline_strip82.png::CompressedTexture2D::4326746214404625096::1763749700::1763749700::1::::<><><>0<>0<>eae47fa6aa2793d1d702c3521a9e1dca<>res://.godot/imported/Stardev_Wide_Outline_strip82.png-3a5894e236eea6db175d822db86bd6d8.ctex::
+Stardev_Wide_strip82.png::CompressedTexture2D::1421962914643040986::1763749700::1763749700::1::::<><><>0<>0<>6231d1ed0452978e8ca4d74e66f981aa<>res://.godot/imported/Stardev_Wide_strip82.png-42b6650775e5140b726d618a31a42162.ctex::
+::res://assets/seasons_of_forest_free_v1/::1762321254
+::res://cenas/::1763755967
+area_2d.gd::GDScript::2744546307126686051::1763749700::0::1::::<>Area2D<><>0<>0<><>::
+contador_osso.gd::GDScript::4889451851805697287::1763749700::0::1::::<>Control<><>0<>0<><>::
+contador_osso.tscn::PackedScene::306494395436431662::1763749700::0::1::::<><><>0<>0<><>::uid://detx0vc3qult8::::res://assets/brackeys_platformer_assetsnw/fonts/PixelOperator8-Bold.ttf<>res://cenas/contador_osso.gd
+jogador.gd::GDScript::1393479008922981441::1763749700::0::1::::Jogador<>CharacterBody2D<><>0<>0<><>::
+jogador.tscn::PackedScene::2552561997493414506::1763749700::0::1::::<><><>0<>0<><>::res://cenas/jogador.gd<>uid://caugbnj2iecne::::res://assets/RELEASED - Shiba Inu Shepherd Mix Husky Pet Mod _ Chucklefish Forums.png<>uid://dqjkkuqxsixj4::::res://assets/RELEASED - Shiba Inu Shepherd Mix Husky Pet Mod _ Chucklefish ForumsSEMOSFUNDO.png
+jogo.gd::GDScript::269775072598933981::1763749700::0::1::::<>Node2D<><>0<>0<><>::
+jogo.tscn::PackedScene::5618313233425693799::1763750102::0::1::::<><><>0<>0<><>::uid://bcmqk8twxbwp3::::res://cenas/jogador.tscn<>uid://d3xfkmv67x06::::res://cenas/jogo.gd<>uid://cw1s8h4f5gvdq::::res://assets/brackeys_platformer_assetsnw/sprites/world_tileset.png<>uid://bsnl1uxqk7w8l::::res://cenas/level_manager.gd<>uid://bfdqjn4hxenlj::::res://cenas/area_2d.gd<>uid://bv1poolboyurk::::res://cenas/osso.tscn<>uid://worwrm4sdb7m::::res://assets/nuvem.png<>uid://c76fj2tiy5a38::::res://assets/floor_spikes_oga/floor spikes.svg<>uid://emp6hdw1vtmc::::res://cenas/contador_osso.tscn<>uid://14o3rl81dhc8::::res://assets/kids-game-gaming-background-music-295075.mp3
+label_osso.gd::GDScript::5890418210092113309::1763749700::0::1::::<>Label<><>0<>0<><>::
+level_manager.gd::GDScript::3677372184281538341::1763749700::0::1::::<>Node<><>0<>0<><>::
+osso.gd::GDScript::3775196192754925389::1763749700::0::1::::<>Area2D<><>0<>0<><>::
+osso.tscn::PackedScene::3914996730088362524::1763749700::0::1::::<><><>0<>0<><>::uid://baw5ray8y0vvr::::res://assets/brackeys_platformer_assetsnw/sprites/osso.png<>res://cenas/osso.gd<>uid://c6a6lr14p3tba::::res://assets/brackeys_platformer_assetsnw/sounds/coin.wav
+pergunta_tabuada.gd::GDScript::9222601006679128838::1763750024::0::1::::<>CanvasLayer<><>0<>0<><>::
+pergunta_tabuada.tscn::PackedScene::913298254304659593::1763749700::0::1::::<><><>0<>0<><>::res://cenas/pergunta_tabuada.gd
+tela_ganhou.gd::GDScript::6742247497013917508::1763749700::0::1::::<>Node<><>0<>0<><>::
+tela_ganhou.tscn::PackedScene::6890798854641568170::1763749700::0::1::::<><><>0<>0<><>::uid://ryou86x666ll::::res://assets/brackeys_platformer_assetsnw/fonts/PixelOperator8.ttf<>res://cenas/tela_ganhou.gd<>uid://dqjkkuqxsixj4::::res://assets/RELEASED - Shiba Inu Shepherd Mix Husky Pet Mod _ Chucklefish ForumsSEMOSFUNDO.png<>uid://cw1s8h4f5gvdq::::res://assets/brackeys_platformer_assetsnw/sprites/world_tileset.png<>uid://b1r8eige43r8j::::res://assets/brackeys_platformer_assetsnw/sprites/e5fdc870-0452-42a6-9f6a-d0c44a419ff1.png<>uid://bv1poolboyurk::::res://cenas/osso.tscn
+tela_inicial.gd::GDScript::5997232547344894844::1763749700::0::1::::<>Node<><>0<>0<><>::
+tela_inicial.tscn::PackedScene::9133906380477540607::1763755967::0::1::::<><><>0<>0<><>::uid://crpdsqxn3md8o::::res://Cenas/tela_inicial.gd<>uid://ryou86x666ll::::res://assets/brackeys_platformer_assetsnw/fonts/PixelOperator8.ttf<>uid://dqjkkuqxsixj4::::res://assets/RELEASED - Shiba Inu Shepherd Mix Husky Pet Mod _ Chucklefish ForumsSEMOSFUNDO.png<>uid://cw1s8h4f5gvdq::::res://assets/brackeys_platformer_assetsnw/sprites/world_tileset.png<>uid://bv1poolboyurk::::res://cenas/osso.tscn<>uid://14o3rl81dhc8::::res://assets/kids-game-gaming-background-music-295075.mp3
+tela_perdeu.gd::GDScript::974803713379190208::1763749700::0::1::::<>Node<><>0<>0<><>::
+tela_perdeu.tscn::PackedScene::5396160180712757410::1763750124::0::1::::<><><>0<>0<><>::uid://n5g40gy5am21::::res://cenas/tela_perdeu.gd<>uid://ryou86x666ll::::res://assets/brackeys_platformer_assetsnw/fonts/PixelOperator8.ttf<>uid://dqjkkuqxsixj4::::res://assets/RELEASED - Shiba Inu Shepherd Mix Husky Pet Mod _ Chucklefish ForumsSEMOSFUNDO.png<>uid://cw1s8h4f5gvdq::::res://assets/brackeys_platformer_assetsnw/sprites/world_tileset.png<>uid://sq2m8jtpd8ym::::res://assets/efeito-sonoro-de-game-over-cover.mp3

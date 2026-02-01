@@ -1,0 +1,32 @@
+[gd_scene load_steps=3 format=3 uid="uid://emp6hdw1vtmc"]
+
+[ext_resource type="FontFile" uid="uid://detx0vc3qult8" path="res://assets/brackeys_platformer_assetsnw/fonts/PixelOperator8-Bold.ttf" id="1_1dfn1"]
+[ext_resource type="Script" path="res://cenas/contador_osso.gd" id="1_65bds"]
+
+[node name="Control" type="Control"]
+z_index = 10
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("1_65bds")
+
+[node name="LabelQuantidade" type="Label" parent="."]
+z_index = 10
+layout_mode = 0
+offset_left = 2.0
+offset_top = 1.0
+offset_right = 94.0
+offset_bottom = 24.0
+theme_override_fonts/font = ExtResource("1_1dfn1")
+text = "Ossos:"
+
+[node name="LabelOsso" type="Label" parent="."]
+z_index = 10
+layout_mode = 0
+offset_left = 92.0
+offset_top = 3.0
+offset_right = 136.0
+offset_bottom = 26.0
+theme_override_fonts/font = ExtResource("1_1dfn1")
+text = "0/6"

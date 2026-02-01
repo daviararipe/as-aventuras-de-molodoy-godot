@@ -1,0 +1,32 @@
+[gd_scene load_steps=2 format=3 uid="uid://nan5hp67i5m0"]
+
+[ext_resource type="Script" path="res://cenas/pergunta_tabuada.gd" id="1_bdm8u"]
+
+[node name="CanvasLayer" type="CanvasLayer"]
+script = ExtResource("1_bdm8u")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+offset_left = -551.0
+offset_top = -398.0
+offset_right = 3366.0
+offset_bottom = 1581.0
+color = Color(0.231373, 0.368627, 0.847059, 1)
+
+[node name="Label" type="Label" parent="."]
+offset_left = 520.0
+offset_top = 208.0
+offset_right = 637.0
+offset_bottom = 255.0
+
+[node name="LineEdit" type="LineEdit" parent="."]
+offset_left = 545.0
+offset_top = 258.0
+offset_right = 613.563
+offset_bottom = 289.0
+
+[node name="Button" type="Button" parent="."]
+offset_left = 529.0
+offset_top = 305.0
+offset_right = 631.0
+offset_bottom = 340.0
+text = "RESPONDER"

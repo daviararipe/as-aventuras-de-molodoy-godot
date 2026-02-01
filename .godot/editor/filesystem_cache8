@@ -1,0 +1,111 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1763553063
+icon.svg::CompressedTexture2D::1049437457218468139::1763549061::1763549105::1::::<><>::
+objetivos.gd::GDScript::-1::1763549708::0::1::::<>CanvasLayer<>::
+objetivos.tscn::PackedScene::5043216347193671749::1763549664::0::1::::<><>::uid://ryou86x666ll::::res://assets/brackeys_platformer_assetsnw/fonts/PixelOperator8.ttf<>res://objetivos.gd
+::res://assets/::1763554209
+1762342324345-convertido-de-jpg.png::CompressedTexture2D::4790477697903662984::1763549065::1763549105::1::::<><>::
+1762342324345.jpg::CompressedTexture2D::933292184929057593::1763549065::1763549105::0::::<><>::
+ChatGPT Image 5 de nov. de 2025, 08_36_21.png::CompressedTexture2D::7710054581018191756::1763549065::1763549105::1::::<><>::
+d27c19a3-0dad-468b-8151-479aa13ef15c.jpg::CompressedTexture2D::4566935213782441264::1763549065::1763549105::1::::<><>::
+efeito-sonoro-de-game-over-cover.mp3::AudioStreamMP3::1298091765938362088::1763554193::1763554211::1::::<><>::
+efeito-sonoro-de-game-over-cover.wav::AudioStreamWAV::3262056774663585718::1763554020::1763554061::1::::<><>::
+kids-game-gaming-background-music-295075.mp3::AudioStreamMP3::1885677841008683929::1763551911::1763551911::1::::<><>::
+kidsgame.wav::AudioStreamWAV::1016493838087282913::1763553033::1763553068::1::::<><>::
+nuvem.png::CompressedTexture2D::1574128237712893864::1763550785::1763550826::1::::<><>::
+RELEASED - Shiba Inu Shepherd Mix Husky Pet Mod _ Chucklefish Forums.png::CompressedTexture2D::4814495708162300038::1763549065::1763549105::1::::<><>::
+RELEASED - Shiba Inu Shepherd Mix Husky Pet Mod _ Chucklefish ForumsSEMOSFUNDO.png::CompressedTexture2D::8301489053194356587::1763549065::1763549105::1::::<><>::
+spike-animation.png::CompressedTexture2D::5535733191791648684::1763549065::1763549105::1::::<><>::
+::res://assets/brackeys_platformer_assetsnw/::1763549079
+LICENSE & CREDITS.txt::TextFile::-1::1763549065::0::1::::<><>::
+::res://assets/brackeys_platformer_assetsnw/fonts/::1763549105
+PixelOperator8-Bold.ttf::FontFile::7480682846014154099::1763549065::1763549105::1::::<><>::
+PixelOperator8.ttf::FontFile::1243642943968001029::1763549065::1763549105::1::::<><>::
+::res://assets/brackeys_platformer_assetsnw/music/::1763549105
+time_for_adventure.mp3::AudioStreamMP3::521778580810028147::1763549065::1763549105::1::::<><>::
+::res://assets/brackeys_platformer_assetsnw/sounds/::1763549106
+coin.wav::AudioStreamWAV::6950598325074582366::1763549065::1763549105::1::::<><>::
+explosion.wav::AudioStreamWAV::4221276537553146649::1763549065::1763549105::1::::<><>::
+hurt.wav::AudioStreamWAV::7219279176199521615::1763549065::1763549105::1::::<><>::
+jump.wav::AudioStreamWAV::3927691413527159443::1763549065::1763549105::1::::<><>::
+power_up.wav::AudioStreamWAV::7128526293074019093::1763549065::1763549105::1::::<><>::
+tap.wav::AudioStreamWAV::1668628728253337079::1763549065::1763549105::1::::<><>::
+::res://assets/brackeys_platformer_assetsnw/sprites/::1763549105
+coin.png::CompressedTexture2D::2501980877428428755::1763549065::1763549105::1::::<><>::
+e5fdc870-0452-42a6-9f6a-d0c44a419ff1.png::CompressedTexture2D::4248436273715116511::1763549065::1763549105::1::::<><>::
+fruit.png::CompressedTexture2D::5181834662601106001::1763549065::1763549105::1::::<><>::
+knight.png::CompressedTexture2D::91079055010527440::1763549065::1763549105::1::::<><>::
+osso.png::CompressedTexture2D::2433688901169547927::1763549065::1763549105::1::::<><>::
+platforms.png::CompressedTexture2D::6609946855057886897::1763549065::1763549105::1::::<><>::
+slime_green.png::CompressedTexture2D::8929152458418360265::1763549065::1763549105::1::::<><>::
+slime_purple.png::CompressedTexture2D::5493236488023971245::1763549065::1763549105::1::::<><>::
+trofeu.png::CompressedTexture2D::8722802735722425562::1763549065::1763549105::1::::<><>::
+world_tileset.png::CompressedTexture2D::6371821998827433146::1763549065::1763549105::1::::<><>::
+::res://assets/floor_spikes_oga/::1763549105
+floor spikes.svg::CompressedTexture2D::7083201179166541193::1763549065::1763549105::1::::<><>::
+READ_ME.txt::TextFile::-1::1763549065::0::1::::<><>::
+::res://assets/floor_spikes_oga/keyframes/::1763549105
+long_metal_spike.png::CompressedTexture2D::6830794823417241463::1763549065::1763549105::1::::<><>::
+long_wood_spike.png::CompressedTexture2D::823120658756712193::1763549065::1763549105::1::::<><>::
+small_metal_spike.png::CompressedTexture2D::2861605980767089239::1763549065::1763549105::1::::<><>::
+small_wood_spike.png::CompressedTexture2D::6249406774363005129::1763549065::1763549105::1::::<><>::
+::res://assets/floor_spikes_oga/keyframes/long_metal/::1763549105
+long_metal_spike_01.png::CompressedTexture2D::8995772248989426020::1763549065::1763549105::1::::<><>::
+long_metal_spike_02.png::CompressedTexture2D::12150228741544093::1763549065::1763549105::1::::<><>::
+long_metal_spike_03.png::CompressedTexture2D::4845410776071686492::1763549065::1763549105::1::::<><>::
+long_metal_spike_04.png::CompressedTexture2D::9054262090386742650::1763549065::1763549105::1::::<><>::
+::res://assets/floor_spikes_oga/keyframes/long_wood/::1763549105
+long_wood_spike_01.png::CompressedTexture2D::3486730479370533305::1763549065::1763549105::1::::<><>::
+long_wood_spike_02.png::CompressedTexture2D::4359590744397810799::1763549065::1763549105::1::::<><>::
+long_wood_spike_03.png::CompressedTexture2D::2195140184028061034::1763549065::1763549105::1::::<><>::
+long_wood_spike_04.png::CompressedTexture2D::175413042782227612::1763549065::1763549105::1::::<><>::
+long_wood_spike_05.png::CompressedTexture2D::2966752580689311752::1763549065::1763549105::1::::<><>::
+::res://assets/floor_spikes_oga/keyframes/small_metal/::1763549105
+small_metal_spike_01.png::CompressedTexture2D::5617991139482304347::1763549065::1763549105::1::::<><>::
+small_metal_spike_02.png::CompressedTexture2D::666093719069279947::1763549065::1763549105::1::::<><>::
+small_metal_spike_03.png::CompressedTexture2D::245177777993379726::1763549065::1763549105::1::::<><>::
+::res://assets/floor_spikes_oga/keyframes/small_wood/::1763549105
+small_wood_spike_01.png::CompressedTexture2D::2695782097207635218::1763549065::1763549105::1::::<><>::
+small_wood_spike_02.png::CompressedTexture2D::7738380043110796418::1763549065::1763549105::1::::<><>::
+small_wood_spike_03.png::CompressedTexture2D::2849056179143145030::1763549065::1763549105::1::::<><>::
+small_wood_spike_04.png::CompressedTexture2D::6060214764128536244::1763549065::1763549105::1::::<><>::
+::res://assets/fonts/::1763549079
+::res://assets/fonts/Stardev Full - 14 Fonts/::1763549105
+characters.png::CompressedTexture2D::2062674634740021272::1763549065::1763549105::1::::<><>::
+characters.txt::TextFile::-1::1763549066::0::1::::<><>::
+fonts.png::CompressedTexture2D::1482150343560452272::1763549066::1763549105::1::::<><>::
+Stardev_Narrow_AA_strip82.png::CompressedTexture2D::2663186613631309975::1763549066::1763549105::1::::<><>::
+Stardev_Narrow_Outline_strip82.png::CompressedTexture2D::7905063371378426745::1763549066::1763549105::1::::<><>::
+Stardev_Narrow_strip82.png::CompressedTexture2D::5437356197616423063::1763549066::1763549105::1::::<><>::
+Stardev_Normal_AA_strip82.png::CompressedTexture2D::3920928972001261607::1763549066::1763549105::1::::<><>::
+Stardev_Normal_Gold_strip82.png::CompressedTexture2D::1865112556879035902::1763549066::1763549105::1::::<><>::
+Stardev_Normal_Outline_strip82.png::CompressedTexture2D::4483701236741997103::1763549066::1763549105::1::::<><>::
+Stardev_Normal_Silver_strip82.png::CompressedTexture2D::347129505634444893::1763549066::1763549105::1::::<><>::
+Stardev_Normal_strip82.png::CompressedTexture2D::7308910690251949828::1763549066::1763549105::1::::<><>::
+Stardev_Superbold_AA_strip82.png::CompressedTexture2D::2811361634929688318::1763549066::1763549105::1::::<><>::
+Stardev_Superbold_Outline_strip82.png::CompressedTexture2D::1383053275687985341::1763549066::1763549105::1::::<><>::
+Stardev_Superbold_strip82.png::CompressedTexture2D::2406106602952120879::1763549066::1763549105::1::::<><>::
+Stardev_Wide_AA_strip82.png::CompressedTexture2D::1051499370662473476::1763549066::1763549105::1::::<><>::
+Stardev_Wide_Outline_strip82.png::CompressedTexture2D::4326746214404625096::1763549066::1763549105::1::::<><>::
+Stardev_Wide_strip82.png::CompressedTexture2D::1421962914643040986::1763549066::1763549105::1::::<><>::
+::res://assets/seasons_of_forest_free_v1/::1762321254
+::res://cenas/::1763554130
+area_2d.gd::GDScript::-1::1763549066::0::1::::<>Area2D<>::
+contador_osso.gd::GDScript::-1::1763549066::0::1::::<>Control<>::
+contador_osso.tscn::PackedScene::306494395436431662::1763554130::0::1::::<><>::uid://detx0vc3qult8::::res://assets/brackeys_platformer_assetsnw/fonts/PixelOperator8-Bold.ttf<>res://cenas/contador_osso.gd
+jogador.gd::GDScript::-1::1763549066::0::1::::Jogador<>CharacterBody2D<>::
+jogador.tscn::PackedScene::2552561997493414506::1763554130::0::1::::<><>::res://cenas/jogador.gd<>uid://caugbnj2iecne::::res://assets/RELEASED - Shiba Inu Shepherd Mix Husky Pet Mod _ Chucklefish Forums.png<>uid://dqjkkuqxsixj4::::res://assets/RELEASED - Shiba Inu Shepherd Mix Husky Pet Mod _ Chucklefish ForumsSEMOSFUNDO.png
+jogo.gd::GDScript::-1::1763549066::0::1::::<>Node2D<>::
+jogo.tscn::PackedScene::5618313233425693799::1763554130::0::1::::<><>::uid://bcmqk8twxbwp3::::res://cenas/jogador.tscn<>res://cenas/jogo.gd<>uid://cw1s8h4f5gvdq::::res://assets/brackeys_platformer_assetsnw/sprites/world_tileset.png<>res://cenas/level_manager.gd<>res://cenas/area_2d.gd<>uid://bv1poolboyurk::::res://cenas/osso.tscn<>uid://worwrm4sdb7m::::res://assets/nuvem.png<>uid://c76fj2tiy5a38::::res://assets/floor_spikes_oga/floor spikes.svg<>uid://emp6hdw1vtmc::::res://cenas/contador_osso.tscn<>uid://14o3rl81dhc8::::res://assets/kids-game-gaming-background-music-295075.mp3
+label_osso.gd::GDScript::-1::1763549066::0::1::::<>Label<>::
+level_manager.gd::GDScript::-1::1763549066::0::1::::<>Node<>::
+osso.gd::GDScript::-1::1763552607::0::1::::<>Area2D<>::
+osso.tscn::PackedScene::3914996730088362524::1763554130::0::1::::<><>::uid://baw5ray8y0vvr::::res://assets/brackeys_platformer_assetsnw/sprites/osso.png<>res://cenas/osso.gd<>uid://c6a6lr14p3tba::::res://assets/brackeys_platformer_assetsnw/sounds/coin.wav
+pergunta_tabuada.gd::GDScript::-1::1763553827::0::1::::<>CanvasLayer<>::
+pergunta_tabuada.tscn::PackedScene::913298254304659593::1763554130::0::1::::<><>::res://cenas/pergunta_tabuada.gd
+tela_ganhou.gd::GDScript::-1::1763549066::0::1::::<>Node<>::
+tela_ganhou.tscn::PackedScene::6890798854641568170::1763554130::0::1::::<><>::uid://ryou86x666ll::::res://assets/brackeys_platformer_assetsnw/fonts/PixelOperator8.ttf<>res://cenas/tela_ganhou.gd<>uid://dqjkkuqxsixj4::::res://assets/RELEASED - Shiba Inu Shepherd Mix Husky Pet Mod _ Chucklefish ForumsSEMOSFUNDO.png<>uid://cw1s8h4f5gvdq::::res://assets/brackeys_platformer_assetsnw/sprites/world_tileset.png<>uid://b1r8eige43r8j::::res://assets/brackeys_platformer_assetsnw/sprites/e5fdc870-0452-42a6-9f6a-d0c44a419ff1.png<>uid://bv1poolboyurk::::res://cenas/osso.tscn
+tela_inicial.gd::GDScript::-1::1763549066::0::1::::<>Node<>::
+tela_inicial.tscn::PackedScene::9133906380477540607::1763554130::0::1::::<><>::res://Cenas/tela_inicial.gd<>uid://ryou86x666ll::::res://assets/brackeys_platformer_assetsnw/fonts/PixelOperator8.ttf<>uid://dqjkkuqxsixj4::::res://assets/RELEASED - Shiba Inu Shepherd Mix Husky Pet Mod _ Chucklefish ForumsSEMOSFUNDO.png<>uid://cw1s8h4f5gvdq::::res://assets/brackeys_platformer_assetsnw/sprites/world_tileset.png<>uid://bv1poolboyurk::::res://cenas/osso.tscn
+tela_perdeu.gd::GDScript::-1::1763549066::0::1::::<>Node<>::
+tela_perdeu.tscn::PackedScene::5396160180712757410::1763554130::0::1::::<><>::res://cenas/tela_perdeu.gd<>uid://ryou86x666ll::::res://assets/brackeys_platformer_assetsnw/fonts/PixelOperator8.ttf<>uid://dqjkkuqxsixj4::::res://assets/RELEASED - Shiba Inu Shepherd Mix Husky Pet Mod _ Chucklefish ForumsSEMOSFUNDO.png<>uid://cw1s8h4f5gvdq::::res://assets/brackeys_platformer_assetsnw/sprites/world_tileset.png<>uid://bmqful35yr2ac::::res://assets/efeito-sonoro-de-game-over-cover.wav

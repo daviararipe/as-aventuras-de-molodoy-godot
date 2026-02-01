@@ -1,0 +1,9 @@
+res://cenas/contador_osso.tscn::0f03915f7a8ed5aeb94a17c8af9233f5::1763749700::res://.godot/exported/133200997/export-864645866ab1c97c3e219d4cb1135b8d-contador_osso.scn
+res://cenas/jogador.tscn::c84516637ad861d2a0b52507fa0dd3ac::1763749700::res://.godot/exported/133200997/export-776aebfdf0b63e5e96456783dc0b3c7c-jogador.scn
+res://cenas/jogo.tscn::c3f59a309ade3e3a27b97696004e7065::1763750102::res://.godot/exported/133200997/export-7005205936935878d600fa0c67d53a12-jogo.scn
+res://cenas/osso.tscn::1524a3a86d05f53c584a94ef2fd2b013::1763749700::res://.godot/exported/133200997/export-6866aec0b75e7c2f5bb6e9264e344a42-osso.scn
+res://cenas/pergunta_tabuada.tscn::bee947222fd13c2c752507143d37dc66::1763749700::res://.godot/exported/133200997/export-e052594fd92b64446a328e54563e9765-pergunta_tabuada.scn
+res://cenas/tela_ganhou.tscn::3237126883368b248814bdffbe834a24::1763749700::res://.godot/exported/133200997/export-d124ca290cc4df2cf3efae0626f06757-tela_ganhou.scn
+res://cenas/tela_inicial.tscn::f0a704856633d8c7e9309642637b1528::1763755967::res://.godot/exported/133200997/export-7de4d408238d061c817ff40adf0bfc74-tela_inicial.scn
+res://cenas/tela_perdeu.tscn::a17ac98230816a639f4595c4df4e7aa0::1763750124::res://.godot/exported/133200997/export-52d4955149398681d250e74e3f8589fa-tela_perdeu.scn
+res://objetivos.tscn::b57ca28b7cac59439e1b0ac095e40b02::1763749694::res://.godot/exported/133200997/export-57c4fe96d52e237b50c6bd06488bbe26-objetivos.scn
